@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- saved from url=(0082)https://www.pythonanywhere.com/user/davidhhk/files/home/davidhhk/mysite/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width">
+    <title>NYC Cuisine by Zipcode</title>
+    <script src="./NYC Cuisine by Zipcode_files/react-with-addons-15.1.0.js.download"></script>
+    <script src="./NYC Cuisine by Zipcode_files/react-dom-15.1.0.js.download"></script>
+    <script src="./NYC Cuisine by Zipcode_files/browser.js.download"></script>
+    <script src="./NYC Cuisine by Zipcode_files/vega@3"></script>
+    <script src="./NYC Cuisine by Zipcode_files/vega-lite@2"></script>
+    <script src="./NYC Cuisine by Zipcode_files/vega-embed@3"></script>
+
+</head>
+<body>
+<div id="ui"><div data-reactroot=""><form><table><tr><h1><em> NYC Restaurants Distribution by Cuisine Type</em></h1><p><!-- react-text: 8 -->Zip code:<!-- /react-text --><input type="text" placeholder="find delicacies near you"></p><input type="submit" value="search"></tr></table></form></div></div>
+<div id="vis"></div>
+<script type="text/babel">
+    class AppSelectingForm extends React.Component {
+        constructor(props) {
+            super(props);
+            this.state = {
+                zipcode: '',
+            };
+            this.handleChange = this.handleChange.bind(this);
+            this.handleSubmit = this.handleSubmit.bind(this);
+        }
+        handleChange(event) {
+            this.setState({
+                value: event.target.value
+            });
+        }
+        handleSubmit(event) {
+            var spec = `/vis/${this.state.value}`;
+            vegaEmbed('#vis', spec, {actions:false});
+            event.preventDefault();
+        }
+        render() {
+            return (
+                <form onSubmit={this.handleSubmit}>
+                    <table>
+                        <tr>
+                            <h1 class = "header"><em> NYC Restaurants Distribution by Cuisine Type</em></h1>
+                            <p class = "t1">Zip code:<input type="text" value={this.state.value} onChange={this.handleChange} placeholder="find delicacies near you"/></p><input type="submit" value="search" />
+                        </tr>
+                    </table>
+                </form>
+            );
+        }
+    }
+    ReactDOM.render(
+        <div>
+            <AppSelectingForm />
+        </div>,
+        document.getElementById('ui')
+    );
+</script>
+
+
+</body></html>
