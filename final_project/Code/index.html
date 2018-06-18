@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name=”viewport” content=”width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes” />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  
+<style id="jsbin-css">
+body{
+      font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    }
+    p{
+      font-size: 10pt;
+      margin-left:20px;
+    }
+    .countries{
+      stroke: #fff;
+    }
+    .legend rect{
+      stroke: #000;
+    }
+    .legend, .legend_title text{
+      font-size:10pt;
+    }
+    .barlabel {
+      font-size:8pt;
+      text-anchor: middle;
+    }
+</style>
+</head>
+  
+<body bgcolor="3366cc">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/d3-geo-projection.v1.min.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='data.js') }}"></script>
+
+
+</body>
+</html>
