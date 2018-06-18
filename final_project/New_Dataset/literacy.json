@@ -1,1 +1,841 @@
-{"literacy": {"2001": {"AGO": 72.1944885253906, "BGD": 63.622730255127, "HND": 88.94271850585942, "UKR": 99.8048629760742, "NAM": 92.42437744140629, "BGR": 98.2124786376953, "BOL": 97.3237762451172, "COD": 70.416259765625, "NER": 19.791189193725604, "CYP": 99.77493286132808, "ECU": 96.4372100830078, "LTU": 99.70166778564449, "HRV": 99.6486434936523, "STP": 95.4154586791992, "GRC": 98.9405288696289, "VEN": 97.1993408203125, "LKA": 95.58863067626949, "NPL": 70.05361938476561, "LAO": 78.45799255371091, "NIC": 86.2225189208984, "ALB": 99.43515014648442, "ITA": 99.8121337890625, "BRN": 98.89379119873051, "MAC": 99.63353729248051, "ARG": 98.91665649414058, "IND": 76.4256973266602, "BHR": 97.0247116088867, "ARM": 99.80728149414058}, "2015": {"HND": 96.00750732421879, "DOM": 97.6140594482422, "AZE": 99.94277954101558, "PER": 99.0095367431641, "IDN": 99.6700668334961, "BOL": 99.399169921875, "MWI": 72.93560791015629, "COL": 98.53472900390629, "CPV": 98.1113128662109, "SGP": 99.7848968505859, "UZB": 100.0, "TZA": 85.75514221191409, "ECU": 99.1261978149414, "KWT": 99.2590866088867, "TCD": 38.7724189758301, "PRY": 98.32855224609379, "TGO": 84.2901077270508, "ESP": 99.6556777954102, "SLV": 97.94933319091801, "MLI": 49.36653137207029, "VEN": 99.00762939453129, "URY": 98.9275970458984, "THA": 98.1466293334961, "PLW": 98.66443634033199, "ZAF": 98.95578002929692, "TUR": 99.49439239501949, "OMN": 99.1537322998047, "PSE": 99.34060668945308, "ARG": 99.3000030517578, "MEX": 98.94470977783199}, "2014": {"AGO": 77.4311294555664, "HND": 95.6770706176758, "DOM": 97.6885299682617, "ZWE": 90.4281234741211, "PER": 98.97753143310551, "IDN": 99.6802215576172, "CIV": 53.0206909179688, "GUY": 96.68966674804692, "PAK": 72.7954025268555, "COL": 98.5409469604492, "PRY": 98.6862106323242, "LSO": 86.6322021484375, "UZB": 100.0, "ECU": 99.09777069091801, "GEO": 99.70260620117192, "BFA": 50.0962982177734, "MWI": 76.0819091796875, "ESP": 99.7227630615234, "BDI": 79.5596084594727, "GTM": 94.354248046875, "AZE": 99.9569931030273, "GNB": 60.4023513793945, "IRN": 97.9378662109375, "GIN": 46.295051574707, "URY": 98.8388900756836, "KEN": 86.52562713623051, "ZAF": 98.8822784423828, "MDV": 99.2683792114258, "TUR": 99.3584823608398, "OMN": 99.0943222045898, "PSE": 99.3635101318359, "TUN": 96.20909881591801, "SGP": 99.9004669189453, "MEX": 99.0000381469727, "BRA": 98.8456878662109}, "2017": {}, "2016": {"SRB": 99.71981811523442, "BGD": 92.2426528930664, "HND": 96.1265411376953, "OMN": 98.7035598754883, "AZE": 99.9404830932617, "SGP": 99.9265823364258, "ESP": 99.62216186523442, "ECU": 99.0571136474609, "PER": 98.8834915161133, "MMR": 84.75115966796879, "IDN": 99.6688079833984, "MAC": 99.79873657226558, "COD": 84.9895095825195, "VEN": 98.7595062255859, "TCD": 30.7916107177734, "PSE": 99.3837127685547}, "2011": {"CYP": 99.8209915161133, "ARM": 99.8473968505859, "BGD": 65.71463012695311, "HND": 95.9250030517578, "MUS": 98.1303482055664, "DOM": 97.04205322265629, "WSM": 99.23565673828129, "ZWE": 90.9307022094727, "NAM": 94.41944122314449, "IDN": 98.7779998779297, "BGR": 97.86505126953129, "EST": 99.9488983154297, "BOL": 99.0075225830078, "COG": 80.913948059082, "CRI": 99.13369750976558, "COL": 98.2393798828125, "ROU": 98.9956893920898, "JOR": 99.148681640625, "PAK": 70.7693328857422, "BIH": 99.46231079101558, "SGP": 99.88719940185551, "MLI": 47.1369781494141, "PRT": 99.43511962890629, "ECU": 98.6948394775391, "SEN": 66.03273773193361, "TGO": 79.8859100341797, "MNE": 99.21182250976558, "SRB": 99.3086929321289, "MHL": 98.4587783813477, "AFG": 46.9900512695313, "LTU": 99.8557968139648, "ESP": 99.69940185546879, "SLV": 96.5450897216797, "HRV": 99.7236328125, "CHL": 99.4081878662109, "AZE": 99.94409942626949, "MAR": 81.51007080078129, "LVA": 99.8354263305664, "GRC": 98.69457244873051, "ITA": 99.8596420288086, "VEN": 97.5591583251953, "URY": 98.8622207641602, "NPL": 84.7571487426758, "LAO": 72.0562286376953, "ZAF": 98.7896575927734, "TUR": 98.7093505859375, "ALB": 98.7911911010742, "PSE": 99.31231689453129, "BRN": 99.3667678833008, "MAC": 99.6728973388672, "TUN": 97.304443359375, "IND": 86.1448822021484, "TON": 99.4370269775391, "MEX": 98.4617691040039, "BRA": 98.4869232177734}, "2010": {"EGY": 87.5096435546875, "HND": 95.1506881713867, "DOM": 96.8057479858398, "AZE": 99.9505996704102, "LKA": 98.15792846679692, "SWZ": 93.5022964477539, "GHA": 85.7161483764648, "MWI": 72.1395568847656, "PAK": 71.2596206665039, "CMR": 80.5744400024414, "PAN": 97.6385269165039, "JOR": 98.7623519897461, "SGP": 99.75182342529301, "MYS": 98.41870880126949, "PRI": 98.8341827392578, "COL": 98.09841918945308, "TZA": 74.5605163574219, "ECU": 98.6527099609375, "KWT": 98.89910888671879, "PRY": 98.6104507446289, "MNG": 98.4602508544922, "TLS": 79.528678894043, "ESP": 99.5946273803711, "ZMB": 88.7145614624023, "SLV": 96.0344619750977, "MLI": 44.3017082214355, "CHN": 99.6422882080078, "RUS": 99.70960235595699, "GIN": 31.406419754028303, "URY": 98.78418731689449, "THA": 96.5975723266602, "SYC": 98.9713363647461, "RWA": 77.3446273803711, "ZAF": 98.6441268920898, "TUR": 98.2245864868164, "OMN": 97.7437286376953, "PSE": 99.2420425415039, "UGA": 87.4088287353516, "TUN": 97.17172241210942, "CAF": 36.356269836425795, "KAZ": 99.8973617553711, "BHR": 98.1635971069336, "MEX": 98.4345169067383, "BRA": 97.5141220092773, "SUR": 98.3766403198242}, "2013": {"EGY": 92.0234222412109, "HND": 95.0664901733398, "DOM": 97.4724273681641, "AZE": 99.9524688720703, "PAK": 71.6362228393555, "BIH": 99.6624298095703, "SGP": 99.8986129760742, "UZB": 100.0, "ECU": 98.6046371459961, "KWT": 99.15374755859379, "IRQ": 52.3188896179199, "SEN": 55.895938873290994, "SAU": 99.22177124023442, "ESP": 99.6692581176758, "GMB": 60.7779006958008, "SLV": 97.2241897583008, "CHL": 99.04827880859379, "GTM": 91.85192108154301, "IRN": 97.7772979736328, "SLE": 57.0221290588379, "URY": 98.9297637939453, "THA": 98.3138809204102, "PLW": 99.83837890625, "PHL": 98.1083526611328, "TUR": 99.2274322509766, "PSE": 99.34832763671879, "MEX": 98.5644989013672, "BRA": 98.7366790771484}, "2012": {"EGY": 89.28192138671879, "BEN": 52.492469787597706, "HND": 94.98094940185551, "DOM": 97.0238876342773, "UKR": 99.96975708007808, "PER": 98.6981582641602, "BOL": 98.99588012695308, "SUR": 97.6679000854492, "PAK": 72.5834197998047, "COM": 71.5812683105469, "CPV": 98.12896728515629, "JOR": 99.10572052001949, "NER": 23.523780822753896, "UGA": 83.6588821411133, "MDA": 99.4561614990234, "MDG": 76.82916259765629, "TZA": 85.94000244140629, "ECU": 98.8316268920898, "KWT": 98.78225708007808, "GAB": 88.50414276123051, "ESP": 99.6727828979492, "GTM": 93.65347290039058, "AZE": 99.9367523193359, "STP": 96.7384033203125, "CUB": 99.8746490478516, "IRN": 98.01439666748051, "URY": 98.9552536010742, "RWA": 82.33074951171879, "MAR": 91.2209625244141, "ZAF": 98.8820419311523, "TUR": 99.01602172851558, "ALB": 99.2313995361328, "PSE": 99.2873306274414, "TUN": 96.86499786376949, "SGP": 99.8949432373047, "CIV": 48.3099594116211, "BTN": 87.318359375, "MEX": 98.8754196166992, "BRA": 98.61965942382808, "COD": 83.59754943847659}, "1991": {"BGD": 44.6808280944824, "NGA": 71.1890563964844, "WSM": 99.04444122314449, "NAM": 88.1124267578125, "BIH": 99.01995849609379, "PRT": 99.19949340820308, "MYS": 95.5638809204102, "ESP": 99.55455780029301, "BWA": 89.25830078125, "MNE": 99.1458587646484, "SVN": 99.7577362060547, "BFA": 20.180290222168, "BLZ": 77.641471862793, "HRV": 99.6358871459961, "STP": 93.8499603271484, "GRC": 98.9839935302734, "IRN": 86.9742584228516, "NPL": 49.603721618652294, "BRN": 98.09567260742192, "ARG": 98.3046417236328, "IND": 61.9002799987793, "RWA": 74.8965377807617, "BHR": 96.9381103515625, "UGA": 69.8007888793945}, "1990": {"MUS": 91.1919937133789, "PHL": 96.5780792236328, "ZMB": 66.3811569213867, "PRI": 93.16687774658199, "TUR": 92.5436630249023, "BDI": 53.5552101135254, "CHN": 94.2814712524414, "IDN": 96.2075576782227, "ECU": 96.19470977783199, "TTO": 99.3000030517578, "PAN": 95.0867767333984, "SGP": 98.9666976928711, "VEN": 95.4390335083008, "MDV": 98.1996231079102, "MEX": 95.41824340820308, "CPV": 88.1679000854492}, "1993": {"TCD": 17.3473796844482, "COL": 95.48464965820308, "PER": 95.3666305541992, "GAB": 93.2087173461914}, "1992": {"CYP": 99.6213912963867, "BEN": 39.8766098022461, "SLV": 84.94664001464841, "CHL": 98.42797088623051, "ZWE": 95.4113616943359, "BOL": 93.89611053466801, "PRY": 95.6073379516602, "ROU": 99.1074600219727, "SAU": 87.8556137084961}, "1995": {"LAO": 71.1336288452148, "MDV": 98.1701202392578, "TKM": 99.81041717529301, "KWT": 92.04306030273442}, "1994": {"SYC": 98.8133087158203, "MKD": 98.8611679077148, "YEM": 60.222141265869105, "PHL": 96.03677368164058, "GTM": 75.9882125854492, "MAR": 58.43489074707029, "ETH": 33.5853996276855}, "1997": {"MOZ": 46.970001220703104, "PSE": 97.04653930664058}, "1996": {"EGY": 73.21868896484379, "ZAF": 93.9051513671875, "BFA": 19.414150238037102, "URY": 98.5802383422852, "TON": 99.3087387084961, "IRN": 93.0282974243164, "GIN": 27.7163906097412, "COL": 96.99500274658199}, "1999": {"ZMB": 69.4572219848633, "VNM": 94.0970611572266, "KGZ": 99.6956329345703, "AZE": 99.88610076904301, "BLR": 99.79183959960942, "JAM": 91.6034088134766, "KAZ": 99.8451309204102}, "1998": {"MWI": 76.0074996948242, "PAK": 55.33052062988279, "KHM": 76.3182067871094, "MLI": 24.186670303344698, "CIV": 47.058708190918}, "2002": {"DZA": 90.13720703125, "SYC": 99.0647735595703, "MKD": 98.7426986694336, "BEN": 45.3096199035645, "DOM": 94.2175674438477, "ZMB": 69.0888137817383, "UGA": 80.7911605834961, "CHL": 98.9909820556641, "GTM": 82.2202606201172, "MEX": 97.60458374023442, "TZA": 78.3960494995117, "SYR": 95.1888275146484, "CUB": 99.95559692382808, "RUS": 99.72460174560551, "ERI": 77.9452896118164, "SEN": 49.1244888305664, "GEO": 99.8254165649414, "ROU": 97.7614898681641}, "2003": {"MOZ": 61.8928909301758, "JOR": 99.1325912475586, "NGA": 68.993782043457, "PHL": 95.0572128295898, "BFA": 31.2292594909668, "HTI": 81.6163330078125, "OMN": 97.2813262939453, "BWA": 93.9574432373047, "GIN": 47.0912590026855, "MNE": 99.41027069091801}, "2000": {"GNQ": 97.1313705444336, "MUS": 94.5389633178711, "GNB": 59.4928512573242, "SWZ": 91.8632431030273, "GHA": 70.6630630493164, "CRI": 97.6147003173828, "COM": 80.1857604980469, "CMR": 83.0982894897461, "PAN": 96.0798492431641, "BIH": 99.7939300537109, "LSO": 90.9269027709961, "MYS": 97.23780059814449, "MDA": 99.5250778198242, "MDG": 70.2362213134766, "UZB": 99.8743515014648, "CAF": 60.8070487976074, "IRQ": 84.7967987060547, "TCD": 37.5573501586914, "MDV": 98.1701202392578, "TGO": 74.439567565918, "SAU": 95.9131622314453, "MNG": 97.7101211547852, "EST": 99.77050018310551, "KEN": 92.5281829833984, "MRT": 61.3366508483887, "GMB": 52.5550193786621, "BDI": 73.33006286621091, "CHN": 98.8587265014648, "VNM": 94.8365097045898, "LVA": 99.7502593994141, "THA": 97.9753875732422, "RWA": 77.6203308105469, "LAO": 80.5985565185547, "PHL": 95.08975219726558, "TJK": 99.8470611572266, "MMR": 94.58631134033199, "PNG": 66.6789932250977, "SGP": 99.5046005249023, "SDN": 78.1555862426758, "MEX": 96.6122817993164, "BRA": 94.18411254882808, "CIV": 60.7236518859863}, "Country Name": {"AGO": "Angola", "DZA": "Algeria", "EGY": "Egypt, Arab Rep.", "BGD": "Bangladesh", "NER": "Niger", "NAM": "Namibia", "BGR": "Bulgaria", "BOL": "Bolivia", "GHA": "Ghana", "PAK": "Pakistan", "CPV": "Cabo Verde", "JOR": "Jordan", "LBR": "Liberia", "LBY": "Libya", "MYS": "Malaysia", "PRI": "Puerto Rico", "PRK": "Korea, Dem. People\u2019s Rep.", "PSE": "West Bank and Gaza", "TZA": "Tanzania", "BWA": "Botswana", "KHM": "Cambodia", "PRY": "Paraguay", "HKG": "Hong Kong SAR, China", "SAU": "Saudi Arabia", "LBN": "Lebanon", "SVN": "Slovenia", "BFA": "Burkina Faso", "CHE": "Switzerland", "MRT": "Mauritania", "HRV": "Croatia", "CHL": "Chile", "CHN": "China", "KNA": "St. Kitts and Nevis", "JAM": "Jamaica", "DJI": "Djibouti", "GIN": "Guinea", "FIN": "Finland", "URY": "Uruguay", "THA": "Thailand", "SYC": "Seychelles", "NPL": "Nepal", "LAO": "Lao PDR", "YEM": "Yemen, Rep.", "PHL": "Philippines", "ZAF": "South Africa", "KIR": "Kiribati", "ROU": "Romania", "VIR": "Virgin Islands (U.S.)", "SYR": "Syrian Arab Republic", "MAC": "Macao SAR, China", "NIC": "Nicaragua", "KAZ": "Kazakhstan", "TCA": "Turks and Caicos Islands", "PYF": "French Polynesia", "SUR": "Suriname", "DMA": "Dominica", "BEN": "Benin", "NGA": "Nigeria", "BEL": "Belgium", "TGO": "Togo", "DEU": "Germany", "GUM": "Guam", "LKA": "Sri Lanka", "GBR": "United Kingdom", "GUY": "Guyana", "CRI": "Costa Rica", "CMR": "Cameroon", "MAR": "Morocco", "MNP": "Northern Mariana Islands", "LSO": "Lesotho", "HUN": "Hungary", "TKM": "Turkmenistan", "TTO": "Trinidad and Tobago", "NLD": "Netherlands", "BMU": "Bermuda", "TCD": "Chad", "GEO": "Georgia", "MNE": "Montenegro", "MNG": "Mongolia", "MHL": "Marshall Islands", "BLZ": "Belize", "MMR": "Myanmar", "AFG": "Afghanistan", "BDI": "Burundi", "VGB": "British Virgin Islands", "BLR": "Belarus", "GRD": "Grenada", "GRC": "Greece", "ZWE": "Zimbabwe", "MOZ": "Mozambique", "TJK": "Tajikistan", "HTI": "Haiti", "MEX": "Mexico", "LCA": "St. Lucia", "IND": "India", "LVA": "Latvia", "BTN": "Bhutan", "VCT": "St. Vincent and the Grenadines", "VNM": "Vietnam", "NOR": "Norway", "CZE": "Czech Republic", "ATG": "Antigua and Barbuda", "FJI": "Fiji", "HND": "Honduras", "MUS": "Mauritius", "DOM": "Dominican Republic", "LUX": "Luxembourg", "ISR": "Israel", "FSM": "Micronesia, Fed. Sts.", "PER": "Peru", "IDN": "Indonesia", "VUT": "Vanuatu", "MKD": "Macedonia, FYR", "COD": "Congo, Dem. Rep.", "COG": "Congo, Rep.", "ISL": "Iceland", "ETH": "Ethiopia", "COM": "Comoros", "COL": "Colombia", "PRT": "Portugal", "MDA": "Moldova", "STP": "Sao Tome and Principe", "MDG": "Madagascar", "ECU": "Ecuador", "SEN": "Senegal", "MDV": "Maldives", "ASM": "American Samoa", "SRB": "Serbia", "FRA": "France", "LTU": "Lithuania", "RWA": "Rwanda", "ZMB": "Zambia", "GMB": "Gambia, The", "GTM": "Guatemala", "DNK": "Denmark", "UKR": "Ukraine", "AUS": "Australia", "AUT": "Austria", "VEN": "Venezuela, RB", "PLW": "Palau", "KEN": "Kenya", "WSM": "Samoa", "TUR": "Turkey", "ALB": "Albania", "OMN": "Oman", "TUV": "Tuvalu", "ITA": "Italy", "BRN": "Brunei Darussalam", "TUN": "Tunisia", "RUS": "Russian Federation", "BRB": "Barbados", "BRA": "Brazil", "CIV": "Cote d'Ivoire", "TLS": "Timor-Leste", "GNQ": "Equatorial Guinea", "USA": "United States", "SWE": "Sweden", "AZE": "Azerbaijan", "GNB": "Guinea-Bissau", "SWZ": "Swaziland", "TON": "Tonga", "CAN": "Canada", "KOR": "Korea, Rep.", "CAF": "Central African Republic", "SVK": "Slovak Republic", "CYP": "Cyprus", "BIH": "Bosnia and Herzegovina", "SGP": "Singapore", "SOM": "Somalia", "UZB": "Uzbekistan", "ERI": "Eritrea", "POL": "Poland", "KWT": "Kuwait", "GAB": "Gabon", "CYM": "Cayman Islands", "EST": "Estonia", "MWI": "Malawi", "ESP": "Spain", "IRQ": "Iraq", "SLV": "El Salvador", "MLI": "Mali", "IRL": "Ireland", "IRN": "Iran, Islamic Rep.", "SSD": "South Sudan", "SLE": "Sierra Leone", "PAN": "Panama", "SDN": "Sudan", "SLB": "Solomon Islands", "NZL": "New Zealand", "JPN": "Japan", "KGZ": "Kyrgyz Republic", "UGA": "Uganda", "NCL": "New Caledonia", "ARG": "Argentina", "BHS": "Bahamas, The", "BHR": "Bahrain", "ARM": "Armenia", "PNG": "Papua New Guinea", "CUB": "Cuba"}, "2006": {"DZA": 91.7796401977539, "EGY": 84.8782730102539, "BEN": 42.362701416015604, "PER": 97.7571334838867, "LKA": 97.4840621948242, "IDN": 96.6510391235352, "TON": 99.4247589111328, "PAK": 69.16580200195311, "COL": 97.88317108154301, "UGA": 84.0656509399414, "KWT": 98.5121688842773, "SEN": 50.8516616821289, "MDV": 99.3010101318359, "TGO": 76.45294189453129, "BFA": 32.730598449706996, "SLV": 94.95098876953129, "MLI": 38.8161201477051, "IRN": 96.64370727539058, "URY": 98.71251678466801, "TUR": 96.1815032958984, "HTI": 72.3467178344727, "PSE": 99.0913772583008, "MAC": 99.6442413330078, "IND": 81.130859375, "MEX": 97.89566040039058, "BRA": 97.5822982788086}, "2007": {"BGD": 61.8728103637695, "HND": 93.92430877685551, "DOM": 95.78685760498051, "AZE": 100.0, "PER": 97.3562164306641, "NAM": 87.0954132080078, "BOL": 99.4413604736328, "COD": 65.7765274047852, "ETH": 54.9829788208008, "COL": 97.9686279296875, "JOR": 98.9493408203125, "LBR": 49.0741081237793, "CMR": 83.1355667114258, "ZMB": 64.0496368408203, "ECU": 95.42797088623051, "KWT": 98.4472274780273, "PRY": 98.7944564819336, "CYM": 98.9068222045898, "LBN": 98.7147903442383, "BFA": 39.2577781677246, "ESP": 99.56934356689449, "MRT": 56.122428894043, "SLV": 93.56494140625, "GRC": 99.56192016601558, "VEN": 98.3987808227539, "URY": 98.7591400146484, "KEN": 82.3904724121094, "ZAF": 97.5707778930664, "TUR": 96.3623504638672, "PSE": 99.0620574951172, "TUN": 96.29969024658199, "MEX": 98.1560897827148, "BRA": 97.80062866210942}, "2004": {"MAR": 70.4575881958008, "BRA": 96.8438568115234, "ESP": 99.55819702148442, "TUR": 95.6035003662109, "ETH": 49.9000015258789, "PER": 96.7556304931641, "PSE": 98.9418182373047, "IDN": 98.7054595947266, "SYR": 92.4538116455078, "COL": 97.9913101196289, "SUR": 94.8811416625977, "TUN": 94.33898162841801, "SLE": 47.927608489990206, "TCD": 41.6731185913086, "MEX": 97.5644378662109, "SAU": 95.8496932983398, "KHM": 83.3828582763672}, "2005": {"BFA": 32.9666213989258, "LAO": 83.9310607910156, "BTN": 74.40521240234379, "NIC": 87.00924682617192, "TUR": 96.1185531616211, "ESP": 99.5377883911133, "EGY": 84.9328994750977, "PER": 97.1237564086914, "COL": 97.9583969116211, "JOR": 98.9753875732422, "GRC": 99.52918243408199, "IRN": 97.4315338134766, "ETH": 44.6059684753418, "PAK": 65.08657836914061, "NER": 36.546779632568395, "MEX": 97.6358413696289, "THA": 98.0509033203125, "KWT": 99.7333602905273}, "2008": {"DZA": 93.76732635498051, "NGA": 66.3835372924805, "LKA": 97.9817962646484, "IDN": 99.46011352539058, "BOL": 99.12249755859379, "SUR": 99.4164199829102, "PAK": 71.112907409668, "COL": 97.9892730712891, "PRK": 99.99964141845699, "ERI": 86.9749069213867, "KHM": 87.4713821411133, "PRY": 97.96424102783199, "KWT": 98.6433486938477, "ESP": 99.5643081665039, "CHL": 99.1535797119141, "SLV": 95.9574737548828, "BDI": 61.7387886047363, "STP": 80.2031631469727, "IRN": 97.87142944335942, "URY": 98.9681396484375, "MAR": 77.8629608154297, "PHL": 97.7508010864258, "ALB": 98.83120727539058, "OMN": 97.62982177734379, "PSE": 99.0173110961914, "TUN": 96.7942581176758, "SSD": 36.702278137206996, "SDN": 65.8053512573242, "MEX": 98.3823013305664, "BRA": 97.8436279296875}, "2009": {"AZE": 99.95130157470699, "IDN": 99.4737396240234, "BOL": 99.38397216796879, "GUY": 93.09893798828129, "PAK": 70.67626953125, "COL": 97.9374313354492, "LSO": 83.1944122314453, "VNM": 97.09166717529301, "MDG": 64.94024658203129, "ECU": 96.8311004638672, "KHM": 87.1324615478516, "SEN": 65.0149078369141, "PRY": 98.4972915649414, "TGO": 81.7359924316406, "LBN": 99.24334716796879, "ESP": 99.5989990234375, "SLV": 95.0220565795898, "CHL": 98.8723831176758, "BLR": 99.82321166992192, "GRC": 99.4910888671875, "VEN": 98.5333023071289, "URY": 98.86148071289058, "MOZ": 67.1496429443359, "MAR": 79.4736862182617, "ZAF": 98.3650894165039, "TUR": 97.8074722290039, "KGZ": 99.7518463134766, "PSE": 99.2332611083984, "KAZ": 99.8345108032227, "MEX": 98.524658203125, "BRA": 98.0655364990234}}}
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-PkbtxdWDpLChpxtWQ0KbvJoef4XMYPq5pfd/ZmylYZTzXYpCfGwN9d+bsSKcmOJLwTkfjFkfj5wz3poDrhJoSQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-f6e6ce21346c0d2eb22def1e8534afcb.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-0BWCA/R6u2ObTpfsUgMSBEyTMfOY1V9wGfqpR/U9O9tc/BFc53yM/UKaeK950BOFvlIM0BFc2lrr6CHkg095YA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-22f66197d69af5eeca9f48295c52743e.css" />
+  
+  
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>DataVisualization2018/literacy.json at master · yixuantang/DataVisualization2018</title>
+    <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/31022118?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="yixuantang/DataVisualization2018" /><meta property="og:url" content="https://github.com/yixuantang/DataVisualization2018" /><meta property="og:description" content="Contribute to DataVisualization2018 development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mjc1Nzk1NjQzOmU3YmZkNzc2ZjBjOTk5YzU3M2JjMTY4YWI1MTNiNTEwZDVhYmE2Y2JkNmJmNWFhMWM1MWQ4NmUwYjJhMjk3NGM=--ecedfc77877454ab0809714d40efbb622cb96903">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="CB13:591A:45C978C:7D269EE:5B2731D6" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CB13:591A:45C978C:7D269EE:5B2731D6" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="31963267" /><meta name="octolytics-actor-login" content="davidhhk1994" /><meta name="octolytics-actor-hash" content="dce45ef55f344c111e1446532cd456c077985f522033247294f487285604fc00" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="davidhhk1994">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="Nzk0NjkwYjczZjVjZDQxNmYwNTIwMDQ0NjZiNDRhMjczODBhMGVhN2YyNDZiYzg4ZTIwZTU1YjJlZjA3YjQ3Nnx7InJlbW90ZV9hZGRyZXNzIjoiMjE2LjE2NS45NS4xNTEiLCJyZXF1ZXN0X2lkIjoiQ0IxMzo1OTFBOjQ1Qzk3OEM6N0QyNjlFRTo1QjI3MzFENiIsInRpbWVzdGFtcCI6MTUyOTI5NTMyNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
+
+  <meta name="html-safe-nonce" content="5ae07c3d3f515a481b684f0fe5e8fc040db4227f">
+
+  <meta http-equiv="x-pjax-version" content="3977f63d7cfef93709233cd75c3e2fbd">
+  
+
+      <link href="https://github.com/yixuantang/DataVisualization2018/commits/master.atom" rel="alternate" title="Recent Commits to DataVisualization2018:master" type="application/atom+xml">
+
+  <meta name="description" content="Contribute to DataVisualization2018 development by creating an account on GitHub.">
+  <meta name="go-import" content="github.com/yixuantang/DataVisualization2018 git https://github.com/yixuantang/DataVisualization2018.git">
+
+  <meta name="octolytics-dimension-user_id" content="31022118" /><meta name="octolytics-dimension-user_login" content="yixuantang" /><meta name="octolytics-dimension-repository_id" content="132954993" /><meta name="octolytics-dimension-repository_nwo" content="yixuantang/DataVisualization2018" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="132954993" /><meta name="octolytics-dimension-repository_network_root_nwo" content="yixuantang/DataVisualization2018" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/yixuantang/DataVisualization2018/blob/master/Dataset/literacy.json" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+<header class="Header  f5" role="banner">
+  <div class="d-flex flex-justify-between px-3 container-lg">
+    <div class="d-flex flex-justify-between ">
+      <div class="">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+      </div>
+
+    </div>
+
+    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+      <div class="d-flex">
+            <div class="">
+              <div class="header-search scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="search combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="true"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="132954993" data-scoped-search-url="/yixuantang/DataVisualization2018/search" data-unscoped-search-url="/search" action="/yixuantang/DataVisualization2018/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search or jump to…"
+          data-unscoped-placeholder="Search or jump to…"
+          data-scoped-placeholder="Search or jump to…"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=q3KMn/4YnIQIrz5Ixb++XT0ToWoJu2HYXj1LjHEavZ9kO/sp2chzXZYgD98nQmVkA8WnH2U+r46Clhf57cVqQA=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://assets-cdn.github.com/images/search-shortcut-hint.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              <ul class="d-none js-jump-to-suggestions-template-container">
+                <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item">
+                  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center p-2 jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open" href="">
+                    <div class="jump-to-octicon js-jump-to-octicon mr-2 text-center d-none"></div>
+                    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar" alt="" aria-label="Team" src="" width="28" height="28">
+
+                    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden no-wrap css-truncate css-truncate-target">
+                    </div>
+
+                    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+                      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+                        In this repository
+                      </span>
+                      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+                        All GitHub
+                      </span>
+                      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+
+                    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+                      Jump to
+                      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+                  </a>
+                </li>
+                <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-repo-octicon-template" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+                <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-project-octicon-template" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+                <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-search-octicon-template" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+              </ul>
+              <ul class="d-none js-jump-to-no-results-template-container">
+                <li class="d-flex flex-justify-center flex-items-center p-3 f5 d-none">
+                  <span class="text-gray">No suggested jump to results</span>
+                </li>
+              </ul>
+
+              <ul id="jump-to-results" class="js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container" >
+                <li class="d-flex flex-justify-center flex-items-center p-0 f5">
+                  <img src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+                </li>
+              </ul>
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+            </div>
+
+          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none" role="navigation">
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+                Issues
+</a>            </li>
+                <li>
+                  <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar, group:apps_text" data-selected-links=" /marketplace" href="/marketplace">
+                    Apps
+</a>                </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                Explore
+</a>            </li>
+          </ul>
+      </div>
+
+      <div class="d-flex">
+        
+<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
+  <li class="dropdown">
+    <span class="d-inline-block  px-2">
+      
+    <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:31963267" href="/notifications">
+        <span class="mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.99 11.991v1H0v-1l.73-.58c.769-.769.809-2.547 1.189-4.416.77-3.767 4.077-4.996 4.077-4.996 0-.55.45-1 .999-1 .55 0 1 .45 1 1 0 0 3.387 1.229 4.156 4.996.38 1.879.42 3.657 1.19 4.417l.659.58h-.01zM6.995 15.99c1.11 0 1.999-.89 1.999-1.999H4.996c0 1.11.89 1.999 1.999 1.999z"/></svg>
+</a>
+    </span>
+  </li>
+
+  <li class="dropdown">
+    <details class="details-expanded details-reset js-dropdown-details d-flex px-2 flex-items-center">
+      <summary class="HeaderNavlink"
+         aria-label="Create new…"
+         data-ga-click="Header, create new, icon:add">
+        <svg class="octicon octicon-plus float-left mr-1 mt-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg>
+        <span class="dropdown-caret mt-1"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="yixuantang/DataVisualization2018">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/yixuantang/DataVisualization2018/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </details>
+  </li>
+
+  <li class="dropdown">
+
+    <details class="details-expanded details-reset js-dropdown-details d-flex pl-2 flex-items-center">
+      <summary class="HeaderNavlink name mt-1"
+        aria-label="View profile and more"
+        data-ga-click="Header, show menu, icon:avatar">
+        <img alt="@davidhhk1994" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/31963267?s=40&amp;v=4" height="20" width="20">
+        <span class="dropdown-caret"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        <li class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">davidhhk1994</strong>
+        </li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="/davidhhk1994" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a></li>
+        <li><a class="dropdown-item" href="/davidhhk1994?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a></li>
+          <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a></li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a></li>
+
+        <li><a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a></li>
+
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+IELRV3K1wsi1TusIJC9y/cYMOScxUo2wOkcl1ZL6T0TA7Y5ij9DRfcy0+B67u3tY5c9eEP7JRMoTXkkiddrxQ==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+        </form></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ig8Srm+OMfn3hwTx/itMnKf3S2MW4iuJrnMIBj+v6b1hja/SuHultyJg7L2kVRy6M3hG/8ncRKxG12214DNrRQ==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CrXNcQYKOAJ3ephiwcMBXUkpurw1rBvvZ17sjyfuOpGDtyeB/q9V/3Dqsv+ABFpZSlq3YVUW1XH1MqsE/pGpgQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="132954993" class="form-control" />
+
+        <div class="select-menu js-menu-container js-select-menu">
+          <a href="/yixuantang/DataVisualization2018/subscription"
+            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-label="Toggle repository notifications menu"
+            data-ga-click="Repository, click Watch settings, action:blob#show">
+            <span class="js-select-button">
+                <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                Watch
+            </span>
+          </a>
+          <a class="social-count js-social-count"
+            href="/yixuantang/DataVisualization2018/watchers"
+            aria-label="0 users are watching this repository">
+            0
+          </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content">
+            <div class="select-menu-header js-navigation-enable" tabindex="-1">
+              <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+              <span class="select-menu-title">Notifications</span>
+            </div>
+
+              <div class="select-menu-list js-navigation-container" role="menu">
+
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_included" value="included" checked="checked" />
+                    <span class="select-menu-item-heading">Not watching</span>
+                    <span class="description">Be notified when participating or @mentioned.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_subscribed" value="subscribed" />
+                    <span class="select-menu-item-heading">Watching</span>
+                    <span class="description">Be notified of all conversations.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                        Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_ignore" value="ignore" />
+                    <span class="select-menu-item-heading">Ignoring</span>
+                    <span class="description">Never be notified.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-mute" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                        Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/yixuantang/DataVisualization2018/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6CheHjVCDooeAWNSdvhGXJjvxdeMJAK91USZoXKQstViTfN1CFA59jdPWSuVpvcDKPvWmb4EP/uzDTZymQ8+WA==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar yixuantang/DataVisualization2018"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/yixuantang/DataVisualization2018/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/yixuantang/DataVisualization2018/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UyO94nb2odwQU9CYkET3GtmNf6uDgjDMe/zZCLopmDOqOGukHcVtjZIgirWtpzUv7wCYO64QxjML3s3GUFLQ3w==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star yixuantang/DataVisualization2018"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/yixuantang/DataVisualization2018/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <details class="details-reset details-expanded details-expanded-dark d-inline-block float-left"
+            data-deferred-details-content-url="/yixuantang/DataVisualization2018/fork?fragment=1">
+            <summary class="btn btn-sm btn-with-count"
+              title="Fork your own copy of yixuantang/DataVisualization2018 to your account"
+              data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
+              Fork
+            </summary>
+            <details-dialog class="anim-fade-in fast Box Box--overlay d-flex flex-column">
+              <div class="Box-header">
+                <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+                  <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+                </button>
+                <h3 class="Box-title">Where should we fork this repository?</h3>
+              </div>
+              <div class="Box-body overflow-auto text-center">
+                <include-fragment>
+                  <div class="octocat-spinner my-3" aria-label="Loading..."></div>
+                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/yixuantang/DataVisualization2018/fork">the fork page</a> directly.</p>
+                </include-fragment>
+              </div>
+            </details-dialog>
+          </details>
+
+    <a href="/yixuantang/DataVisualization2018/network" class="social-count"
+       aria-label="0 users forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/yixuantang">yixuantang</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/yixuantang/DataVisualization2018">DataVisualization2018</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /yixuantang/DataVisualization2018" href="/yixuantang/DataVisualization2018">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /yixuantang/DataVisualization2018/issues" href="/yixuantang/DataVisualization2018/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /yixuantang/DataVisualization2018/pulls" href="/yixuantang/DataVisualization2018/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /yixuantang/DataVisualization2018/projects" href="/yixuantang/DataVisualization2018/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /yixuantang/DataVisualization2018/wiki" href="/yixuantang/DataVisualization2018/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /yixuantang/DataVisualization2018/pulse" href="/yixuantang/DataVisualization2018/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/yixuantang/DataVisualization2018/blob/798a0f8229aca54dbb4303d76f1060aee7f54c7f/Dataset/literacy.json">Permalink</a>
+
+  <!-- blob contrib key: blob_contributors:v21:7b86cc68c3a86f71d0affb5190e38843 -->
+
+  <div class="file-navigation">
+    
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">master</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/yixuantang/DataVisualization2018/blob/master/Dataset/literacy.json"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/yixuantang/DataVisualization2018/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="g870oA1VHxDUUBruFiu0PTYwI82q6X5gZWbmbN/2jbzItxRQguBTqcqBo4o+n6AECF1TphRc0qxox84Kf2R+ow==" />
+          <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            <div class="select-menu-item-text">
+              <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
+              <span class="description">from ‘master’</span>
+            </div>
+            <input type="hidden" name="name" id="name" class="js-new-item-value">
+            <input type="hidden" name="branch" id="branch" value="master">
+            <input type="hidden" name="path" id="path" value="Dataset/literacy.json">
+</form>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="BtnGroup float-right">
+      <a href="/yixuantang/DataVisualization2018/find/master"
+            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+            data-pjax
+            data-hotkey="t">
+        Find file
+      </a>
+      <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+        Copy path
+      </clipboard-copy>
+    </div>
+    <div id="blob-path" class="breadcrumb">
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/yixuantang/DataVisualization2018"><span>DataVisualization2018</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/yixuantang/DataVisualization2018/tree/master/Dataset"><span>Dataset</span></a></span><span class="separator">/</span><strong class="final-path">literacy.json</strong>
+    </div>
+  </div>
+
+
+  <include-fragment src="/yixuantang/DataVisualization2018/contributors/master/Dataset/literacy.json" class="commit-tease commit-loader">
+    <div>
+      Fetching contributors&hellip;
+    </div>
+
+    <div class="commit-tease-contributors">
+        <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment>
+
+
+  <div class="file">
+    <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/yixuantang/DataVisualization2018/raw/master/Dataset/literacy.json">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/yixuantang/DataVisualization2018/blame/master/Dataset/literacy.json">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/yixuantang/DataVisualization2018/commits/master/Dataset/literacy.json">History</a>
+    </div>
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="https://desktop.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:windows">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/yixuantang/DataVisualization2018/edit/master/Dataset/literacy.json" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Jzbz6Zfv+noQUxkMRp7loASBHxvFWqtJw+ewiK4w5VU9a1CpeVhTQdSZh3qWVIpBOZQJuLpeZfx1pPZJk6WiCA==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/yixuantang/DataVisualization2018/delete/master/Dataset/literacy.json" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="u2SG22ZECP2yZ8TbSCLUTaVkP9PLUiiGy7/Hjr0+khb83i/W9JGYPtwXAmoyvnMa/5Vp5NP7xq11+BpKbOHXfw==" />
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Delete this file" data-disable-with>
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
+
+  <div class="file-info">
+      1 lines (1 sloc)
+      <span class="file-info-divider"></span>
+    18.8 KB
+  </div>
+</div>
+
+    
+
+  <div itemprop="text" class="blob-wrapper data type-json">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">{&quot;literacy&quot;: {&quot;2001&quot;: {&quot;AGO&quot;: 72.1944885253906, &quot;BGD&quot;: 63.622730255127, &quot;HND&quot;: 88.94271850585942, &quot;UKR&quot;: 99.8048629760742, &quot;NAM&quot;: 92.42437744140629, &quot;BGR&quot;: 98.2124786376953, &quot;BOL&quot;: 97.3237762451172, &quot;COD&quot;: 70.416259765625, &quot;NER&quot;: 19.791189193725604, &quot;CYP&quot;: 99.77493286132808, &quot;ECU&quot;: 96.4372100830078, &quot;LTU&quot;: 99.70166778564449, &quot;HRV&quot;: 99.6486434936523, &quot;STP&quot;: 95.4154586791992, &quot;GRC&quot;: 98.9405288696289, &quot;VEN&quot;: 97.1993408203125, &quot;LKA&quot;: 95.58863067626949, &quot;NPL&quot;: 70.05361938476561, &quot;LAO&quot;: 78.45799255371091, &quot;NIC&quot;: 86.2225189208984, &quot;ALB&quot;: 99.43515014648442, &quot;ITA&quot;: 99.8121337890625, &quot;BRN&quot;: 98.89379119873051, &quot;MAC&quot;: 99.63353729248051, &quot;ARG&quot;: 98.91665649414058, &quot;IND&quot;: 76.4256973266602, &quot;BHR&quot;: 97.0247116088867, &quot;ARM&quot;: 99.80728149414058}, &quot;2015&quot;: {&quot;HND&quot;: 96.00750732421879, &quot;DOM&quot;: 97.6140594482422, &quot;AZE&quot;: 99.94277954101558, &quot;PER&quot;: 99.0095367431641, &quot;IDN&quot;: 99.6700668334961, &quot;BOL&quot;: 99.399169921875, &quot;MWI&quot;: 72.93560791015629, &quot;COL&quot;: 98.53472900390629, &quot;CPV&quot;: 98.1113128662109, &quot;SGP&quot;: 99.7848968505859, &quot;UZB&quot;: 100.0, &quot;TZA&quot;: 85.75514221191409, &quot;ECU&quot;: 99.1261978149414, &quot;KWT&quot;: 99.2590866088867, &quot;TCD&quot;: 38.7724189758301, &quot;PRY&quot;: 98.32855224609379, &quot;TGO&quot;: 84.2901077270508, &quot;ESP&quot;: 99.6556777954102, &quot;SLV&quot;: 97.94933319091801, &quot;MLI&quot;: 49.36653137207029, &quot;VEN&quot;: 99.00762939453129, &quot;URY&quot;: 98.9275970458984, &quot;THA&quot;: 98.1466293334961, &quot;PLW&quot;: 98.66443634033199, &quot;ZAF&quot;: 98.95578002929692, &quot;TUR&quot;: 99.49439239501949, &quot;OMN&quot;: 99.1537322998047, &quot;PSE&quot;: 99.34060668945308, &quot;ARG&quot;: 99.3000030517578, &quot;MEX&quot;: 98.94470977783199}, &quot;2014&quot;: {&quot;AGO&quot;: 77.4311294555664, &quot;HND&quot;: 95.6770706176758, &quot;DOM&quot;: 97.6885299682617, &quot;ZWE&quot;: 90.4281234741211, &quot;PER&quot;: 98.97753143310551, &quot;IDN&quot;: 99.6802215576172, &quot;CIV&quot;: 53.0206909179688, &quot;GUY&quot;: 96.68966674804692, &quot;PAK&quot;: 72.7954025268555, &quot;COL&quot;: 98.5409469604492, &quot;PRY&quot;: 98.6862106323242, &quot;LSO&quot;: 86.6322021484375, &quot;UZB&quot;: 100.0, &quot;ECU&quot;: 99.09777069091801, &quot;GEO&quot;: 99.70260620117192, &quot;BFA&quot;: 50.0962982177734, &quot;MWI&quot;: 76.0819091796875, &quot;ESP&quot;: 99.7227630615234, &quot;BDI&quot;: 79.5596084594727, &quot;GTM&quot;: 94.354248046875, &quot;AZE&quot;: 99.9569931030273, &quot;GNB&quot;: 60.4023513793945, &quot;IRN&quot;: 97.9378662109375, &quot;GIN&quot;: 46.295051574707, &quot;URY&quot;: 98.8388900756836, &quot;KEN&quot;: 86.52562713623051, &quot;ZAF&quot;: 98.8822784423828, &quot;MDV&quot;: 99.2683792114258, &quot;TUR&quot;: 99.3584823608398, &quot;OMN&quot;: 99.0943222045898, &quot;PSE&quot;: 99.3635101318359, &quot;TUN&quot;: 96.20909881591801, &quot;SGP&quot;: 99.9004669189453, &quot;MEX&quot;: 99.0000381469727, &quot;BRA&quot;: 98.8456878662109}, &quot;2017&quot;: {}, &quot;2016&quot;: {&quot;SRB&quot;: 99.71981811523442, &quot;BGD&quot;: 92.2426528930664, &quot;HND&quot;: 96.1265411376953, &quot;OMN&quot;: 98.7035598754883, &quot;AZE&quot;: 99.9404830932617, &quot;SGP&quot;: 99.9265823364258, &quot;ESP&quot;: 99.62216186523442, &quot;ECU&quot;: 99.0571136474609, &quot;PER&quot;: 98.8834915161133, &quot;MMR&quot;: 84.75115966796879, &quot;IDN&quot;: 99.6688079833984, &quot;MAC&quot;: 99.79873657226558, &quot;COD&quot;: 84.9895095825195, &quot;VEN&quot;: 98.7595062255859, &quot;TCD&quot;: 30.7916107177734, &quot;PSE&quot;: 99.3837127685547}, &quot;2011&quot;: {&quot;CYP&quot;: 99.8209915161133, &quot;ARM&quot;: 99.8473968505859, &quot;BGD&quot;: 65.71463012695311, &quot;HND&quot;: 95.9250030517578, &quot;MUS&quot;: 98.1303482055664, &quot;DOM&quot;: 97.04205322265629, &quot;WSM&quot;: 99.23565673828129, &quot;ZWE&quot;: 90.9307022094727, &quot;NAM&quot;: 94.41944122314449, &quot;IDN&quot;: 98.7779998779297, &quot;BGR&quot;: 97.86505126953129, &quot;EST&quot;: 99.9488983154297, &quot;BOL&quot;: 99.0075225830078, &quot;COG&quot;: 80.913948059082, &quot;CRI&quot;: 99.13369750976558, &quot;COL&quot;: 98.2393798828125, &quot;ROU&quot;: 98.9956893920898, &quot;JOR&quot;: 99.148681640625, &quot;PAK&quot;: 70.7693328857422, &quot;BIH&quot;: 99.46231079101558, &quot;SGP&quot;: 99.88719940185551, &quot;MLI&quot;: 47.1369781494141, &quot;PRT&quot;: 99.43511962890629, &quot;ECU&quot;: 98.6948394775391, &quot;SEN&quot;: 66.03273773193361, &quot;TGO&quot;: 79.8859100341797, &quot;MNE&quot;: 99.21182250976558, &quot;SRB&quot;: 99.3086929321289, &quot;MHL&quot;: 98.4587783813477, &quot;AFG&quot;: 46.9900512695313, &quot;LTU&quot;: 99.8557968139648, &quot;ESP&quot;: 99.69940185546879, &quot;SLV&quot;: 96.5450897216797, &quot;HRV&quot;: 99.7236328125, &quot;CHL&quot;: 99.4081878662109, &quot;AZE&quot;: 99.94409942626949, &quot;MAR&quot;: 81.51007080078129, &quot;LVA&quot;: 99.8354263305664, &quot;GRC&quot;: 98.69457244873051, &quot;ITA&quot;: 99.8596420288086, &quot;VEN&quot;: 97.5591583251953, &quot;URY&quot;: 98.8622207641602, &quot;NPL&quot;: 84.7571487426758, &quot;LAO&quot;: 72.0562286376953, &quot;ZAF&quot;: 98.7896575927734, &quot;TUR&quot;: 98.7093505859375, &quot;ALB&quot;: 98.7911911010742, &quot;PSE&quot;: 99.31231689453129, &quot;BRN&quot;: 99.3667678833008, &quot;MAC&quot;: 99.6728973388672, &quot;TUN&quot;: 97.304443359375, &quot;IND&quot;: 86.1448822021484, &quot;TON&quot;: 99.4370269775391, &quot;MEX&quot;: 98.4617691040039, &quot;BRA&quot;: 98.4869232177734}, &quot;2010&quot;: {&quot;EGY&quot;: 87.5096435546875, &quot;HND&quot;: 95.1506881713867, &quot;DOM&quot;: 96.8057479858398, &quot;AZE&quot;: 99.9505996704102, &quot;LKA&quot;: 98.15792846679692, &quot;SWZ&quot;: 93.5022964477539, &quot;GHA&quot;: 85.7161483764648, &quot;MWI&quot;: 72.1395568847656, &quot;PAK&quot;: 71.2596206665039, &quot;CMR&quot;: 80.5744400024414, &quot;PAN&quot;: 97.6385269165039, &quot;JOR&quot;: 98.7623519897461, &quot;SGP&quot;: 99.75182342529301, &quot;MYS&quot;: 98.41870880126949, &quot;PRI&quot;: 98.8341827392578, &quot;COL&quot;: 98.09841918945308, &quot;TZA&quot;: 74.5605163574219, &quot;ECU&quot;: 98.6527099609375, &quot;KWT&quot;: 98.89910888671879, &quot;PRY&quot;: 98.6104507446289, &quot;MNG&quot;: 98.4602508544922, &quot;TLS&quot;: 79.528678894043, &quot;ESP&quot;: 99.5946273803711, &quot;ZMB&quot;: 88.7145614624023, &quot;SLV&quot;: 96.0344619750977, &quot;MLI&quot;: 44.3017082214355, &quot;CHN&quot;: 99.6422882080078, &quot;RUS&quot;: 99.70960235595699, &quot;GIN&quot;: 31.406419754028303, &quot;URY&quot;: 98.78418731689449, &quot;THA&quot;: 96.5975723266602, &quot;SYC&quot;: 98.9713363647461, &quot;RWA&quot;: 77.3446273803711, &quot;ZAF&quot;: 98.6441268920898, &quot;TUR&quot;: 98.2245864868164, &quot;OMN&quot;: 97.7437286376953, &quot;PSE&quot;: 99.2420425415039, &quot;UGA&quot;: 87.4088287353516, &quot;TUN&quot;: 97.17172241210942, &quot;CAF&quot;: 36.356269836425795, &quot;KAZ&quot;: 99.8973617553711, &quot;BHR&quot;: 98.1635971069336, &quot;MEX&quot;: 98.4345169067383, &quot;BRA&quot;: 97.5141220092773, &quot;SUR&quot;: 98.3766403198242}, &quot;2013&quot;: {&quot;EGY&quot;: 92.0234222412109, &quot;HND&quot;: 95.0664901733398, &quot;DOM&quot;: 97.4724273681641, &quot;AZE&quot;: 99.9524688720703, &quot;PAK&quot;: 71.6362228393555, &quot;BIH&quot;: 99.6624298095703, &quot;SGP&quot;: 99.8986129760742, &quot;UZB&quot;: 100.0, &quot;ECU&quot;: 98.6046371459961, &quot;KWT&quot;: 99.15374755859379, &quot;IRQ&quot;: 52.3188896179199, &quot;SEN&quot;: 55.895938873290994, &quot;SAU&quot;: 99.22177124023442, &quot;ESP&quot;: 99.6692581176758, &quot;GMB&quot;: 60.7779006958008, &quot;SLV&quot;: 97.2241897583008, &quot;CHL&quot;: 99.04827880859379, &quot;GTM&quot;: 91.85192108154301, &quot;IRN&quot;: 97.7772979736328, &quot;SLE&quot;: 57.0221290588379, &quot;URY&quot;: 98.9297637939453, &quot;THA&quot;: 98.3138809204102, &quot;PLW&quot;: 99.83837890625, &quot;PHL&quot;: 98.1083526611328, &quot;TUR&quot;: 99.2274322509766, &quot;PSE&quot;: 99.34832763671879, &quot;MEX&quot;: 98.5644989013672, &quot;BRA&quot;: 98.7366790771484}, &quot;2012&quot;: {&quot;EGY&quot;: 89.28192138671879, &quot;BEN&quot;: 52.492469787597706, &quot;HND&quot;: 94.98094940185551, &quot;DOM&quot;: 97.0238876342773, &quot;UKR&quot;: 99.96975708007808, &quot;PER&quot;: 98.6981582641602, &quot;BOL&quot;: 98.99588012695308, &quot;SUR&quot;: 97.6679000854492, &quot;PAK&quot;: 72.5834197998047, &quot;COM&quot;: 71.5812683105469, &quot;CPV&quot;: 98.12896728515629, &quot;JOR&quot;: 99.10572052001949, &quot;NER&quot;: 23.523780822753896, &quot;UGA&quot;: 83.6588821411133, &quot;MDA&quot;: 99.4561614990234, &quot;MDG&quot;: 76.82916259765629, &quot;TZA&quot;: 85.94000244140629, &quot;ECU&quot;: 98.8316268920898, &quot;KWT&quot;: 98.78225708007808, &quot;GAB&quot;: 88.50414276123051, &quot;ESP&quot;: 99.6727828979492, &quot;GTM&quot;: 93.65347290039058, &quot;AZE&quot;: 99.9367523193359, &quot;STP&quot;: 96.7384033203125, &quot;CUB&quot;: 99.8746490478516, &quot;IRN&quot;: 98.01439666748051, &quot;URY&quot;: 98.9552536010742, &quot;RWA&quot;: 82.33074951171879, &quot;MAR&quot;: 91.2209625244141, &quot;ZAF&quot;: 98.8820419311523, &quot;TUR&quot;: 99.01602172851558, &quot;ALB&quot;: 99.2313995361328, &quot;PSE&quot;: 99.2873306274414, &quot;TUN&quot;: 96.86499786376949, &quot;SGP&quot;: 99.8949432373047, &quot;CIV&quot;: 48.3099594116211, &quot;BTN&quot;: 87.318359375, &quot;MEX&quot;: 98.8754196166992, &quot;BRA&quot;: 98.61965942382808, &quot;COD&quot;: 83.59754943847659}, &quot;1991&quot;: {&quot;BGD&quot;: 44.6808280944824, &quot;NGA&quot;: 71.1890563964844, &quot;WSM&quot;: 99.04444122314449, &quot;NAM&quot;: 88.1124267578125, &quot;BIH&quot;: 99.01995849609379, &quot;PRT&quot;: 99.19949340820308, &quot;MYS&quot;: 95.5638809204102, &quot;ESP&quot;: 99.55455780029301, &quot;BWA&quot;: 89.25830078125, &quot;MNE&quot;: 99.1458587646484, &quot;SVN&quot;: 99.7577362060547, &quot;BFA&quot;: 20.180290222168, &quot;BLZ&quot;: 77.641471862793, &quot;HRV&quot;: 99.6358871459961, &quot;STP&quot;: 93.8499603271484, &quot;GRC&quot;: 98.9839935302734, &quot;IRN&quot;: 86.9742584228516, &quot;NPL&quot;: 49.603721618652294, &quot;BRN&quot;: 98.09567260742192, &quot;ARG&quot;: 98.3046417236328, &quot;IND&quot;: 61.9002799987793, &quot;RWA&quot;: 74.8965377807617, &quot;BHR&quot;: 96.9381103515625, &quot;UGA&quot;: 69.8007888793945}, &quot;1990&quot;: {&quot;MUS&quot;: 91.1919937133789, &quot;PHL&quot;: 96.5780792236328, &quot;ZMB&quot;: 66.3811569213867, &quot;PRI&quot;: 93.16687774658199, &quot;TUR&quot;: 92.5436630249023, &quot;BDI&quot;: 53.5552101135254, &quot;CHN&quot;: 94.2814712524414, &quot;IDN&quot;: 96.2075576782227, &quot;ECU&quot;: 96.19470977783199, &quot;TTO&quot;: 99.3000030517578, &quot;PAN&quot;: 95.0867767333984, &quot;SGP&quot;: 98.9666976928711, &quot;VEN&quot;: 95.4390335083008, &quot;MDV&quot;: 98.1996231079102, &quot;MEX&quot;: 95.41824340820308, &quot;CPV&quot;: 88.1679000854492}, &quot;1993&quot;: {&quot;TCD&quot;: 17.3473796844482, &quot;COL&quot;: 95.48464965820308, &quot;PER&quot;: 95.3666305541992, &quot;GAB&quot;: 93.2087173461914}, &quot;1992&quot;: {&quot;CYP&quot;: 99.6213912963867, &quot;BEN&quot;: 39.8766098022461, &quot;SLV&quot;: 84.94664001464841, &quot;CHL&quot;: 98.42797088623051, &quot;ZWE&quot;: 95.4113616943359, &quot;BOL&quot;: 93.89611053466801, &quot;PRY&quot;: 95.6073379516602, &quot;ROU&quot;: 99.1074600219727, &quot;SAU&quot;: 87.8556137084961}, &quot;1995&quot;: {&quot;LAO&quot;: 71.1336288452148, &quot;MDV&quot;: 98.1701202392578, &quot;TKM&quot;: 99.81041717529301, &quot;KWT&quot;: 92.04306030273442}, &quot;1994&quot;: {&quot;SYC&quot;: 98.8133087158203, &quot;MKD&quot;: 98.8611679077148, &quot;YEM&quot;: 60.222141265869105, &quot;PHL&quot;: 96.03677368164058, &quot;GTM&quot;: 75.9882125854492, &quot;MAR&quot;: 58.43489074707029, &quot;ETH&quot;: 33.5853996276855}, &quot;1997&quot;: {&quot;MOZ&quot;: 46.970001220703104, &quot;PSE&quot;: 97.04653930664058}, &quot;1996&quot;: {&quot;EGY&quot;: 73.21868896484379, &quot;ZAF&quot;: 93.9051513671875, &quot;BFA&quot;: 19.414150238037102, &quot;URY&quot;: 98.5802383422852, &quot;TON&quot;: 99.3087387084961, &quot;IRN&quot;: 93.0282974243164, &quot;GIN&quot;: 27.7163906097412, &quot;COL&quot;: 96.99500274658199}, &quot;1999&quot;: {&quot;ZMB&quot;: 69.4572219848633, &quot;VNM&quot;: 94.0970611572266, &quot;KGZ&quot;: 99.6956329345703, &quot;AZE&quot;: 99.88610076904301, &quot;BLR&quot;: 99.79183959960942, &quot;JAM&quot;: 91.6034088134766, &quot;KAZ&quot;: 99.8451309204102}, &quot;1998&quot;: {&quot;MWI&quot;: 76.0074996948242, &quot;PAK&quot;: 55.33052062988279, &quot;KHM&quot;: 76.3182067871094, &quot;MLI&quot;: 24.186670303344698, &quot;CIV&quot;: 47.058708190918}, &quot;2002&quot;: {&quot;DZA&quot;: 90.13720703125, &quot;SYC&quot;: 99.0647735595703, &quot;MKD&quot;: 98.7426986694336, &quot;BEN&quot;: 45.3096199035645, &quot;DOM&quot;: 94.2175674438477, &quot;ZMB&quot;: 69.0888137817383, &quot;UGA&quot;: 80.7911605834961, &quot;CHL&quot;: 98.9909820556641, &quot;GTM&quot;: 82.2202606201172, &quot;MEX&quot;: 97.60458374023442, &quot;TZA&quot;: 78.3960494995117, &quot;SYR&quot;: 95.1888275146484, &quot;CUB&quot;: 99.95559692382808, &quot;RUS&quot;: 99.72460174560551, &quot;ERI&quot;: 77.9452896118164, &quot;SEN&quot;: 49.1244888305664, &quot;GEO&quot;: 99.8254165649414, &quot;ROU&quot;: 97.7614898681641}, &quot;2003&quot;: {&quot;MOZ&quot;: 61.8928909301758, &quot;JOR&quot;: 99.1325912475586, &quot;NGA&quot;: 68.993782043457, &quot;PHL&quot;: 95.0572128295898, &quot;BFA&quot;: 31.2292594909668, &quot;HTI&quot;: 81.6163330078125, &quot;OMN&quot;: 97.2813262939453, &quot;BWA&quot;: 93.9574432373047, &quot;GIN&quot;: 47.0912590026855, &quot;MNE&quot;: 99.41027069091801}, &quot;2000&quot;: {&quot;GNQ&quot;: 97.1313705444336, &quot;MUS&quot;: 94.5389633178711, &quot;GNB&quot;: 59.4928512573242, &quot;SWZ&quot;: 91.8632431030273, &quot;GHA&quot;: 70.6630630493164, &quot;CRI&quot;: 97.6147003173828, &quot;COM&quot;: 80.1857604980469, &quot;CMR&quot;: 83.0982894897461, &quot;PAN&quot;: 96.0798492431641, &quot;BIH&quot;: 99.7939300537109, &quot;LSO&quot;: 90.9269027709961, &quot;MYS&quot;: 97.23780059814449, &quot;MDA&quot;: 99.5250778198242, &quot;MDG&quot;: 70.2362213134766, &quot;UZB&quot;: 99.8743515014648, &quot;CAF&quot;: 60.8070487976074, &quot;IRQ&quot;: 84.7967987060547, &quot;TCD&quot;: 37.5573501586914, &quot;MDV&quot;: 98.1701202392578, &quot;TGO&quot;: 74.439567565918, &quot;SAU&quot;: 95.9131622314453, &quot;MNG&quot;: 97.7101211547852, &quot;EST&quot;: 99.77050018310551, &quot;KEN&quot;: 92.5281829833984, &quot;MRT&quot;: 61.3366508483887, &quot;GMB&quot;: 52.5550193786621, &quot;BDI&quot;: 73.33006286621091, &quot;CHN&quot;: 98.8587265014648, &quot;VNM&quot;: 94.8365097045898, &quot;LVA&quot;: 99.7502593994141, &quot;THA&quot;: 97.9753875732422, &quot;RWA&quot;: 77.6203308105469, &quot;LAO&quot;: 80.5985565185547, &quot;PHL&quot;: 95.08975219726558, &quot;TJK&quot;: 99.8470611572266, &quot;MMR&quot;: 94.58631134033199, &quot;PNG&quot;: 66.6789932250977, &quot;SGP&quot;: 99.5046005249023, &quot;SDN&quot;: 78.1555862426758, &quot;MEX&quot;: 96.6122817993164, &quot;BRA&quot;: 94.18411254882808, &quot;CIV&quot;: 60.7236518859863}, &quot;Country Name&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;EGY&quot;: &quot;Egypt, Arab Rep.&quot;, &quot;BGD&quot;: &quot;Bangladesh&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;BGR&quot;: &quot;Bulgaria&quot;, &quot;BOL&quot;: &quot;Bolivia&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;PAK&quot;: &quot;Pakistan&quot;, &quot;CPV&quot;: &quot;Cabo Verde&quot;, &quot;JOR&quot;: &quot;Jordan&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;MYS&quot;: &quot;Malaysia&quot;, &quot;PRI&quot;: &quot;Puerto Rico&quot;, &quot;PRK&quot;: &quot;Korea, Dem. People\u2019s Rep.&quot;, &quot;PSE&quot;: &quot;West Bank and Gaza&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;KHM&quot;: &quot;Cambodia&quot;, &quot;PRY&quot;: &quot;Paraguay&quot;, &quot;HKG&quot;: &quot;Hong Kong SAR, China&quot;, &quot;SAU&quot;: &quot;Saudi Arabia&quot;, &quot;LBN&quot;: &quot;Lebanon&quot;, &quot;SVN&quot;: &quot;Slovenia&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;CHE&quot;: &quot;Switzerland&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;HRV&quot;: &quot;Croatia&quot;, &quot;CHL&quot;: &quot;Chile&quot;, &quot;CHN&quot;: &quot;China&quot;, &quot;KNA&quot;: &quot;St. Kitts and Nevis&quot;, &quot;JAM&quot;: &quot;Jamaica&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;FIN&quot;: &quot;Finland&quot;, &quot;URY&quot;: &quot;Uruguay&quot;, &quot;THA&quot;: &quot;Thailand&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;NPL&quot;: &quot;Nepal&quot;, &quot;LAO&quot;: &quot;Lao PDR&quot;, &quot;YEM&quot;: &quot;Yemen, Rep.&quot;, &quot;PHL&quot;: &quot;Philippines&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;KIR&quot;: &quot;Kiribati&quot;, &quot;ROU&quot;: &quot;Romania&quot;, &quot;VIR&quot;: &quot;Virgin Islands (U.S.)&quot;, &quot;SYR&quot;: &quot;Syrian Arab Republic&quot;, &quot;MAC&quot;: &quot;Macao SAR, China&quot;, &quot;NIC&quot;: &quot;Nicaragua&quot;, &quot;KAZ&quot;: &quot;Kazakhstan&quot;, &quot;TCA&quot;: &quot;Turks and Caicos Islands&quot;, &quot;PYF&quot;: &quot;French Polynesia&quot;, &quot;SUR&quot;: &quot;Suriname&quot;, &quot;DMA&quot;: &quot;Dominica&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;BEL&quot;: &quot;Belgium&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;DEU&quot;: &quot;Germany&quot;, &quot;GUM&quot;: &quot;Guam&quot;, &quot;LKA&quot;: &quot;Sri Lanka&quot;, &quot;GBR&quot;: &quot;United Kingdom&quot;, &quot;GUY&quot;: &quot;Guyana&quot;, &quot;CRI&quot;: &quot;Costa Rica&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MNP&quot;: &quot;Northern Mariana Islands&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;HUN&quot;: &quot;Hungary&quot;, &quot;TKM&quot;: &quot;Turkmenistan&quot;, &quot;TTO&quot;: &quot;Trinidad and Tobago&quot;, &quot;NLD&quot;: &quot;Netherlands&quot;, &quot;BMU&quot;: &quot;Bermuda&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;GEO&quot;: &quot;Georgia&quot;, &quot;MNE&quot;: &quot;Montenegro&quot;, &quot;MNG&quot;: &quot;Mongolia&quot;, &quot;MHL&quot;: &quot;Marshall Islands&quot;, &quot;BLZ&quot;: &quot;Belize&quot;, &quot;MMR&quot;: &quot;Myanmar&quot;, &quot;AFG&quot;: &quot;Afghanistan&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;VGB&quot;: &quot;British Virgin Islands&quot;, &quot;BLR&quot;: &quot;Belarus&quot;, &quot;GRD&quot;: &quot;Grenada&quot;, &quot;GRC&quot;: &quot;Greece&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;TJK&quot;: &quot;Tajikistan&quot;, &quot;HTI&quot;: &quot;Haiti&quot;, &quot;MEX&quot;: &quot;Mexico&quot;, &quot;LCA&quot;: &quot;St. Lucia&quot;, &quot;IND&quot;: &quot;India&quot;, &quot;LVA&quot;: &quot;Latvia&quot;, &quot;BTN&quot;: &quot;Bhutan&quot;, &quot;VCT&quot;: &quot;St. Vincent and the Grenadines&quot;, &quot;VNM&quot;: &quot;Vietnam&quot;, &quot;NOR&quot;: &quot;Norway&quot;, &quot;CZE&quot;: &quot;Czech Republic&quot;, &quot;ATG&quot;: &quot;Antigua and Barbuda&quot;, &quot;FJI&quot;: &quot;Fiji&quot;, &quot;HND&quot;: &quot;Honduras&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;DOM&quot;: &quot;Dominican Republic&quot;, &quot;LUX&quot;: &quot;Luxembourg&quot;, &quot;ISR&quot;: &quot;Israel&quot;, &quot;FSM&quot;: &quot;Micronesia, Fed. Sts.&quot;, &quot;PER&quot;: &quot;Peru&quot;, &quot;IDN&quot;: &quot;Indonesia&quot;, &quot;VUT&quot;: &quot;Vanuatu&quot;, &quot;MKD&quot;: &quot;Macedonia, FYR&quot;, &quot;COD&quot;: &quot;Congo, Dem. Rep.&quot;, &quot;COG&quot;: &quot;Congo, Rep.&quot;, &quot;ISL&quot;: &quot;Iceland&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;COL&quot;: &quot;Colombia&quot;, &quot;PRT&quot;: &quot;Portugal&quot;, &quot;MDA&quot;: &quot;Moldova&quot;, &quot;STP&quot;: &quot;Sao Tome and Principe&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;ECU&quot;: &quot;Ecuador&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;MDV&quot;: &quot;Maldives&quot;, &quot;ASM&quot;: &quot;American Samoa&quot;, &quot;SRB&quot;: &quot;Serbia&quot;, &quot;FRA&quot;: &quot;France&quot;, &quot;LTU&quot;: &quot;Lithuania&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;GMB&quot;: &quot;Gambia, The&quot;, &quot;GTM&quot;: &quot;Guatemala&quot;, &quot;DNK&quot;: &quot;Denmark&quot;, &quot;UKR&quot;: &quot;Ukraine&quot;, &quot;AUS&quot;: &quot;Australia&quot;, &quot;AUT&quot;: &quot;Austria&quot;, &quot;VEN&quot;: &quot;Venezuela, RB&quot;, &quot;PLW&quot;: &quot;Palau&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;WSM&quot;: &quot;Samoa&quot;, &quot;TUR&quot;: &quot;Turkey&quot;, &quot;ALB&quot;: &quot;Albania&quot;, &quot;OMN&quot;: &quot;Oman&quot;, &quot;TUV&quot;: &quot;Tuvalu&quot;, &quot;ITA&quot;: &quot;Italy&quot;, &quot;BRN&quot;: &quot;Brunei Darussalam&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;RUS&quot;: &quot;Russian Federation&quot;, &quot;BRB&quot;: &quot;Barbados&quot;, &quot;BRA&quot;: &quot;Brazil&quot;, &quot;CIV&quot;: &quot;Cote d&#39;Ivoire&quot;, &quot;TLS&quot;: &quot;Timor-Leste&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;, &quot;USA&quot;: &quot;United States&quot;, &quot;SWE&quot;: &quot;Sweden&quot;, &quot;AZE&quot;: &quot;Azerbaijan&quot;, &quot;GNB&quot;: &quot;Guinea-Bissau&quot;, &quot;SWZ&quot;: &quot;Swaziland&quot;, &quot;TON&quot;: &quot;Tonga&quot;, &quot;CAN&quot;: &quot;Canada&quot;, &quot;KOR&quot;: &quot;Korea, Rep.&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;SVK&quot;: &quot;Slovak Republic&quot;, &quot;CYP&quot;: &quot;Cyprus&quot;, &quot;BIH&quot;: &quot;Bosnia and Herzegovina&quot;, &quot;SGP&quot;: &quot;Singapore&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;UZB&quot;: &quot;Uzbekistan&quot;, &quot;ERI&quot;: &quot;Eritrea&quot;, &quot;POL&quot;: &quot;Poland&quot;, &quot;KWT&quot;: &quot;Kuwait&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;CYM&quot;: &quot;Cayman Islands&quot;, &quot;EST&quot;: &quot;Estonia&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;ESP&quot;: &quot;Spain&quot;, &quot;IRQ&quot;: &quot;Iraq&quot;, &quot;SLV&quot;: &quot;El Salvador&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;IRL&quot;: &quot;Ireland&quot;, &quot;IRN&quot;: &quot;Iran, Islamic Rep.&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;PAN&quot;: &quot;Panama&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;SLB&quot;: &quot;Solomon Islands&quot;, &quot;NZL&quot;: &quot;New Zealand&quot;, &quot;JPN&quot;: &quot;Japan&quot;, &quot;KGZ&quot;: &quot;Kyrgyz Republic&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;NCL&quot;: &quot;New Caledonia&quot;, &quot;ARG&quot;: &quot;Argentina&quot;, &quot;BHS&quot;: &quot;Bahamas, The&quot;, &quot;BHR&quot;: &quot;Bahrain&quot;, &quot;ARM&quot;: &quot;Armenia&quot;, &quot;PNG&quot;: &quot;Papua New Guinea&quot;, &quot;CUB&quot;: &quot;Cuba&quot;}, &quot;2006&quot;: {&quot;DZA&quot;: 91.7796401977539, &quot;EGY&quot;: 84.8782730102539, &quot;BEN&quot;: 42.362701416015604, &quot;PER&quot;: 97.7571334838867, &quot;LKA&quot;: 97.4840621948242, &quot;IDN&quot;: 96.6510391235352, &quot;TON&quot;: 99.4247589111328, &quot;PAK&quot;: 69.16580200195311, &quot;COL&quot;: 97.88317108154301, &quot;UGA&quot;: 84.0656509399414, &quot;KWT&quot;: 98.5121688842773, &quot;SEN&quot;: 50.8516616821289, &quot;MDV&quot;: 99.3010101318359, &quot;TGO&quot;: 76.45294189453129, &quot;BFA&quot;: 32.730598449706996, &quot;SLV&quot;: 94.95098876953129, &quot;MLI&quot;: 38.8161201477051, &quot;IRN&quot;: 96.64370727539058, &quot;URY&quot;: 98.71251678466801, &quot;TUR&quot;: 96.1815032958984, &quot;HTI&quot;: 72.3467178344727, &quot;PSE&quot;: 99.0913772583008, &quot;MAC&quot;: 99.6442413330078, &quot;IND&quot;: 81.130859375, &quot;MEX&quot;: 97.89566040039058, &quot;BRA&quot;: 97.5822982788086}, &quot;2007&quot;: {&quot;BGD&quot;: 61.8728103637695, &quot;HND&quot;: 93.92430877685551, &quot;DOM&quot;: 95.78685760498051, &quot;AZE&quot;: 100.0, &quot;PER&quot;: 97.3562164306641, &quot;NAM&quot;: 87.0954132080078, &quot;BOL&quot;: 99.4413604736328, &quot;COD&quot;: 65.7765274047852, &quot;ETH&quot;: 54.9829788208008, &quot;COL&quot;: 97.9686279296875, &quot;JOR&quot;: 98.9493408203125, &quot;LBR&quot;: 49.0741081237793, &quot;CMR&quot;: 83.1355667114258, &quot;ZMB&quot;: 64.0496368408203, &quot;ECU&quot;: 95.42797088623051, &quot;KWT&quot;: 98.4472274780273, &quot;PRY&quot;: 98.7944564819336, &quot;CYM&quot;: 98.9068222045898, &quot;LBN&quot;: 98.7147903442383, &quot;BFA&quot;: 39.2577781677246, &quot;ESP&quot;: 99.56934356689449, &quot;MRT&quot;: 56.122428894043, &quot;SLV&quot;: 93.56494140625, &quot;GRC&quot;: 99.56192016601558, &quot;VEN&quot;: 98.3987808227539, &quot;URY&quot;: 98.7591400146484, &quot;KEN&quot;: 82.3904724121094, &quot;ZAF&quot;: 97.5707778930664, &quot;TUR&quot;: 96.3623504638672, &quot;PSE&quot;: 99.0620574951172, &quot;TUN&quot;: 96.29969024658199, &quot;MEX&quot;: 98.1560897827148, &quot;BRA&quot;: 97.80062866210942}, &quot;2004&quot;: {&quot;MAR&quot;: 70.4575881958008, &quot;BRA&quot;: 96.8438568115234, &quot;ESP&quot;: 99.55819702148442, &quot;TUR&quot;: 95.6035003662109, &quot;ETH&quot;: 49.9000015258789, &quot;PER&quot;: 96.7556304931641, &quot;PSE&quot;: 98.9418182373047, &quot;IDN&quot;: 98.7054595947266, &quot;SYR&quot;: 92.4538116455078, &quot;COL&quot;: 97.9913101196289, &quot;SUR&quot;: 94.8811416625977, &quot;TUN&quot;: 94.33898162841801, &quot;SLE&quot;: 47.927608489990206, &quot;TCD&quot;: 41.6731185913086, &quot;MEX&quot;: 97.5644378662109, &quot;SAU&quot;: 95.8496932983398, &quot;KHM&quot;: 83.3828582763672}, &quot;2005&quot;: {&quot;BFA&quot;: 32.9666213989258, &quot;LAO&quot;: 83.9310607910156, &quot;BTN&quot;: 74.40521240234379, &quot;NIC&quot;: 87.00924682617192, &quot;TUR&quot;: 96.1185531616211, &quot;ESP&quot;: 99.5377883911133, &quot;EGY&quot;: 84.9328994750977, &quot;PER&quot;: 97.1237564086914, &quot;COL&quot;: 97.9583969116211, &quot;JOR&quot;: 98.9753875732422, &quot;GRC&quot;: 99.52918243408199, &quot;IRN&quot;: 97.4315338134766, &quot;ETH&quot;: 44.6059684753418, &quot;PAK&quot;: 65.08657836914061, &quot;NER&quot;: 36.546779632568395, &quot;MEX&quot;: 97.6358413696289, &quot;THA&quot;: 98.0509033203125, &quot;KWT&quot;: 99.7333602905273}, &quot;2008&quot;: {&quot;DZA&quot;: 93.76732635498051, &quot;NGA&quot;: 66.3835372924805, &quot;LKA&quot;: 97.9817962646484, &quot;IDN&quot;: 99.46011352539058, &quot;BOL&quot;: 99.12249755859379, &quot;SUR&quot;: 99.4164199829102, &quot;PAK&quot;: 71.112907409668, &quot;COL&quot;: 97.9892730712891, &quot;PRK&quot;: 99.99964141845699, &quot;ERI&quot;: 86.9749069213867, &quot;KHM&quot;: 87.4713821411133, &quot;PRY&quot;: 97.96424102783199, &quot;KWT&quot;: 98.6433486938477, &quot;ESP&quot;: 99.5643081665039, &quot;CHL&quot;: 99.1535797119141, &quot;SLV&quot;: 95.9574737548828, &quot;BDI&quot;: 61.7387886047363, &quot;STP&quot;: 80.2031631469727, &quot;IRN&quot;: 97.87142944335942, &quot;URY&quot;: 98.9681396484375, &quot;MAR&quot;: 77.8629608154297, &quot;PHL&quot;: 97.7508010864258, &quot;ALB&quot;: 98.83120727539058, &quot;OMN&quot;: 97.62982177734379, &quot;PSE&quot;: 99.0173110961914, &quot;TUN&quot;: 96.7942581176758, &quot;SSD&quot;: 36.702278137206996, &quot;SDN&quot;: 65.8053512573242, &quot;MEX&quot;: 98.3823013305664, &quot;BRA&quot;: 97.8436279296875}, &quot;2009&quot;: {&quot;AZE&quot;: 99.95130157470699, &quot;IDN&quot;: 99.4737396240234, &quot;BOL&quot;: 99.38397216796879, &quot;GUY&quot;: 93.09893798828129, &quot;PAK&quot;: 70.67626953125, &quot;COL&quot;: 97.9374313354492, &quot;LSO&quot;: 83.1944122314453, &quot;VNM&quot;: 97.09166717529301, &quot;MDG&quot;: 64.94024658203129, &quot;ECU&quot;: 96.8311004638672, &quot;KHM&quot;: 87.1324615478516, &quot;SEN&quot;: 65.0149078369141, &quot;PRY&quot;: 98.4972915649414, &quot;TGO&quot;: 81.7359924316406, &quot;LBN&quot;: 99.24334716796879, &quot;ESP&quot;: 99.5989990234375, &quot;SLV&quot;: 95.0220565795898, &quot;CHL&quot;: 98.8723831176758, &quot;BLR&quot;: 99.82321166992192, &quot;GRC&quot;: 99.4910888671875, &quot;VEN&quot;: 98.5333023071289, &quot;URY&quot;: 98.86148071289058, &quot;MOZ&quot;: 67.1496429443359, &quot;MAR&quot;: 79.4736862182617, &quot;ZAF&quot;: 98.3650894165039, &quot;TUR&quot;: 97.8074722290039, &quot;KGZ&quot;: 99.7518463134766, &quot;PSE&quot;: 99.2332611083984, &quot;KAZ&quot;: 99.8345108032227, &quot;MEX&quot;: 98.524658203125, &quot;BRA&quot;: 98.0655364990234}}}</td>
+      </tr>
+</table>
+
+  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
+    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </button>
+    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/yixuantang/DataVisualization2018/blame/798a0f8229aca54dbb4303d76f1060aee7f54c7f/Dataset/literacy.json">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" href="/yixuantang/DataVisualization2018/issues/new">Open new issue</a></li>
+      </ul>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+  <div id="jump-to-line" style="display:none">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+      <button type="submit" class="btn">Go</button>
+</form>  </div>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.27430s from unicorn-d58fb8d79-b9n59">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-/+pkpBQ4DDFOUT8uX6Dbla+41M4Vom3TMEl4repg2iD+ObxYlMFlg753ZkQTsney36h43DjiRu7WcKrvajXLpA==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-6dccd67c7251fe9a33ed7221404a7921.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-XB8KkkjBk6MHTSoAQ65jbLeDNe43Pg4S4sPmAtcQoA9muwav7n7RLhdXCF/sG2CeuGuS00X/77744OE7KWQI+w==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-cfaba2c13c176b701d8051d256600f88.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
